@@ -1,0 +1,5 @@
+Sep  6 15:24:20 lu-2022 networkd-dispatcher[752]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+Sep  6 15:24:20 lu-2022 networkd-dispatcher[752]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='enx00e01a5450ba', type='ether', operational='n/a', administrative='unmanaged'): n/a
+Sep  6 15:24:20 lu-2022 networkd-dispatcher[752]: ERROR:Unknown state for interface NetworkctlListState(idx=3, name='wlp1s0', type='wlan', operational='n/a', administrative='unmanaged'): n/a
+Sep  6 15:24:20 lu-2022 NetworkManager[742]: <info>  [1788697460.6492] failed to open /run/network/ifstate
+Sep  6 15:24:20 lu-2022 wpa_supplicant[775]: dbus: fill_dict_with_properties dbus_interface=fi.w1.wpa_supplicant1.Interface.P2PDevice dbus_property=P2PDeviceConfig getter failed
